@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **Blockchain development**
 
-- 💬 **React.js**
 
 - 📫 How to reach me **madavsharma4545@gmail.com**
 
