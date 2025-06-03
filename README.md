@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manik Sharma</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 🔭 I’m currently working on **Suraksha Patrol**
+- 🔭 I’m currently working on **Suraksha Patrol : AI-Powered Crime Forecasting and Smart Patrolling**
 
 - 🌱 I’m currently learning **Blockchain development**
 
