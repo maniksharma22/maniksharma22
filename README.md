@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manik Sharma</h1>
-<h3 align="center">A passionate Web developer from India</h3>
-
-- 🔭 I’m currently working on **Suraksha Patrol : AI-Powered Crime Forecasting and Smart Patrolling**
-
-- 🌱 I’m currently learning **Blockchain development**
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 
-- 📫 How to reach me **madavsharma4545@gmail.com**
+
+- 📫 How to reach me **maniksharma0325@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
