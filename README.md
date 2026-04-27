@@ -10,7 +10,7 @@
 
 ### 🚀 Quick Links
 - 📫 **Email:** [maniksharma0325@gmail.com](mailto:maniksharma0325@gmail.com)
-- 🌐 **Live Demo:** [NoteFlow App](https://noteflow-app-seven.vercel.app/)
+- 🌐 **Current Project:** [NoteFlow App](https://noteflow-app-seven.vercel.app/)
 - 💼 **LinkedIn:** [in/manik-sharma-10186922b](https://linkedin.com/in/manik-sharma-10186922b)
 
 ---
